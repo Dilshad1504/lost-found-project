@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎒 Lost & Found - Campus Item Management System
 
 > MERN Stack Project | B.Tech 4th Semester | AI308B - AI Driven Full Stack Development
@@ -203,3 +204,6 @@ git push -u origin main
 - **Backend (Render):** https://lost-found-backend.onrender.com
 - **Frontend (Render):** https://lost-found-frontend.onrender.com
 - **GitHub Repository:** https://github.com/YOUR_USERNAME/lost-found
+=======
+# lost-found-project
+>>>>>>> 020b61e139882387907fb41555976793852112b3
